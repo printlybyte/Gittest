@@ -15,6 +15,5 @@ public class MainActivity extends AppCompatActivity {
 
     public void text_onchick(View view) {
         Toast.makeText(this, "absjfhsd", Toast.LENGTH_SHORT).show();
-        Toast.makeText(this, "absjfhsdsdssdsd12", Toast.LENGTH_SHORT).show();
     }
 }
