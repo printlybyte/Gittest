@@ -26,7 +26,7 @@ public class Main2Activity extends AppCompatActivity implements View.OnClickList
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.btn_test:
-                Toast.makeText(this, "刘国栋刘国", Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "中国", Toast.LENGTH_SHORT).show();
                 break;
         }
     }
