@@ -7,8 +7,9 @@
 
     tools:context="com.example.anew.gittest.MainActivity">
 
-    <TextView
-        android:onClick="text_onchick"
+    <Button
+        android:id="@+id/buttonPanel"
+        android:onClick="xxxccc"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
